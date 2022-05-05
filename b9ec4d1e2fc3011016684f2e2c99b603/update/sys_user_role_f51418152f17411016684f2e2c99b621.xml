@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>dummy</description>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_276493_u_test_ap.u_test3_user</name>
+        <requires_subscription>0</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>u_test3_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>kishi123</sys_created_by>
+        <sys_created_on>2022-05-05 07:48:15</sys_created_on>
+        <sys_id>f51418152f17411016684f2e2c99b621</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_276493_u_test_ap.u_test3_user</sys_name>
+        <sys_package display_value="u_test_application" source="x_276493_u_test_ap">b9ec4d1e2fc3011016684f2e2c99b603</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="u_test_application">b9ec4d1e2fc3011016684f2e2c99b603</sys_scope>
+        <sys_update_name>sys_user_role_f51418152f17411016684f2e2c99b621</sys_update_name>
+        <sys_updated_by>kishi123</sys_updated_by>
+        <sys_updated_on>2022-05-05 07:48:15</sys_updated_on>
+    </sys_user_role>
+</record_update>
