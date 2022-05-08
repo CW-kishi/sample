@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="u_test_app">8e3de0d02f9bc11016684f2e2c99b65e</sc_cat_item>
+        <sc_category display_value="システム構成変更">b92f7aa82fe1011016684f2e2c99b6f1</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>kishi123</sys_created_by>
+        <sys_created_on>2022-05-02 07:15:35</sys_created_on>
+        <sys_id>7f0034942f9bc11016684f2e2c99b65b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>システム構成変更.u_test_app</sys_name>
+        <sys_package display_value="u_test_application" source="x_276493_u_test_ap">b9ec4d1e2fc3011016684f2e2c99b603</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="u_test_application">b9ec4d1e2fc3011016684f2e2c99b603</sys_scope>
+        <sys_update_name>sc_cat_item_category_7f0034942f9bc11016684f2e2c99b65b</sys_update_name>
+        <sys_updated_by>kishi123</sys_updated_by>
+        <sys_updated_on>2022-05-02 07:15:35</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>
