@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_timer" label="timer" language="en" table="x_276493_u_test_ap_u_test1">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_timer</element>
+            <help/>
+            <hint/>
+            <label>timer</label>
+            <language>en</language>
+            <name>x_276493_u_test_ap_u_test1</name>
+            <plural>timers</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>kishi123</sys_created_by>
+            <sys_created_on>2022-05-08 05:29:25</sys_created_on>
+            <sys_id>03419bc62f53011016684f2e2c99b6a2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>timer</sys_name>
+            <sys_package display_value="u_test_application" source="x_276493_u_test_ap">b9ec4d1e2fc3011016684f2e2c99b603</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="u_test_application">b9ec4d1e2fc3011016684f2e2c99b603</sys_scope>
+            <sys_update_name>sys_documentation_x_276493_u_test_ap_u_test1_u_timer_en</sys_update_name>
+            <sys_updated_by>kishi123</sys_updated_by>
+            <sys_updated_on>2022-05-08 05:29:25</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -63,14 +63,14 @@
         <sys_created_by>kishi123</sys_created_by>
         <sys_created_on>2022-05-02 07:03:10</sys_created_on>
         <sys_id>8e3de0d02f9bc11016684f2e2c99b65e</sys_id>
-        <sys_mod_count>31</sys_mod_count>
+        <sys_mod_count>32</sys_mod_count>
         <sys_name>u_test_app</sys_name>
         <sys_package display_value="u_test_application" source="x_276493_u_test_ap">b9ec4d1e2fc3011016684f2e2c99b603</sys_package>
         <sys_policy/>
         <sys_scope display_value="u_test_application">b9ec4d1e2fc3011016684f2e2c99b603</sys_scope>
         <sys_update_name>sc_cat_item_8e3de0d02f9bc11016684f2e2c99b65e</sys_update_name>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2022-05-02 07:37:24</sys_updated_on>
+        <sys_updated_by>kishi123</sys_updated_by>
+        <sys_updated_on>2022-05-08 05:48:19</sys_updated_on>
         <taxonomy_topic/>
         <template/>
         <template_manager_roles/>
@@ -90,11 +90,11 @@
         <sys_created_by>kishi123</sys_created_by>
         <sys_created_on>2022-05-02 07:03:11</sys_created_on>
         <sys_id>d63de0d02f9bc11016684f2e2c99b66c</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_updated_by>kishi123</sys_updated_by>
-        <sys_updated_on>2022-05-02 07:03:11</sys_updated_on>
+        <sys_updated_on>2022-05-08 05:48:20</sys_updated_on>
         <tablename>sc_cat_item</tablename>
-        <value/>
+        <value>&lt;p&gt;&lt;strong&gt;テスト用のアプリケーション&lt;/strong&gt;&lt;/p&gt;</value>
     </sys_translated_text>
     <sys_translated_text action="INSERT_OR_UPDATE">
         <documentkey>8e3de0d02f9bc11016684f2e2c99b65e</documentkey>
